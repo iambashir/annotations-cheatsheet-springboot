@@ -13,3 +13,4 @@
 - @Controller
 - @Service
 - @Repository
+ Tutorial Link: https://youtu.be/htyq-mER0AE
